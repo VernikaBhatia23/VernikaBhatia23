@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm a B2B+B2C SaaS marketer with 9 years of experience in product and lifecycle marketing. I'm currently working on learning and building AI skills and projects for marketers, which will hopefully be of use to you :) 
 
 <!--
 **VernikaBhatia23/VernikaBhatia23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
